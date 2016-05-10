@@ -1,0 +1,3 @@
+C:\Users\Sabbir\Documents\Github\RelavantAttributeGenerationUsingNaiveBayesian\Source\App\relevantAttributeGenerationUsingNB\bin\Debug\relevantAttributeGenerationUsingNB.exe.config
+C:\Users\Sabbir\Documents\Github\RelavantAttributeGenerationUsingNaiveBayesian\Source\App\relevantAttributeGenerationUsingNB\obj\Debug\relevantAttributeGenerationUsingNB.exe
+C:\Users\Sabbir\Documents\Github\RelavantAttributeGenerationUsingNaiveBayesian\Source\App\relevantAttributeGenerationUsingNB\obj\Debug\relevantAttributeGenerationUsingNB.pdb
